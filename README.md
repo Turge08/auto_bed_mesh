@@ -8,6 +8,7 @@ Automatic Bed Mesh with BLTouch/Probe Offset
 [gcode_macro printer_settings]
 variable_print_area_x: 350
 variable_print_area_y: 350
+
 gcode:
 </pre>
 
